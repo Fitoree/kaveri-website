@@ -215,7 +215,7 @@ alert("❌ Sorry, something went wrong. Please try again or contact us by email.
   <a href="#home" className="flex items-center gap-3">
 
     <Image
-      src="/images/icon.png"
+      src="/images/icoon.png"
       alt="Kaveri"
       width={56}
       height={56}
@@ -444,7 +444,7 @@ className="border-2 border-white px-6 md:px-8 py-4 rounded-2xl font-bold shadow-
           <div>
           
 <div className="relative h-72 md:h-[500px] lg:h-[600px] w-full">  <Image
-    src="/images/hero.jpg"
+    src="/images/Hero.jpg"
     alt="Property Maintenance"
     fill
     priority
@@ -475,7 +475,7 @@ className="border-2 border-white px-6 md:px-8 py-4 rounded-2xl font-bold shadow-
   {/* Card 1 */}
  <div className="group bg-white rounded-3xl border border-purple-100 overflow-hidden shadow-md hover:shadow-2xl hover:-translate-y-2 hover:border-purple-300 transition-all duration-300">
     <img
-      src="/images/cleaning.jpg"
+      src="/images/Cleaning.jpg"
 className="w-full h-56 md:h-64 object-cover group-hover:scale-105 transition duration-500"    />
 
     <div className="p-6 md:p-8">
@@ -500,7 +500,7 @@ className="w-full h-56 md:h-64 object-cover group-hover:scale-105 transition dur
   {/* Card 2 */}
  <div className="group bg-white rounded-3xl border border-purple-100 overflow-hidden shadow-md hover:shadow-2xl hover:-translate-y-2 hover:border-purple-300 transition-all duration-300">
     <img
-      src="/images/garden.jpg"
+      src="/images/Garden.jpg"
 className="w-full h-56 md:h-64 object-cover group-hover:scale-105 transition duration-500"   />
 
     <div className="p-8">
@@ -525,7 +525,7 @@ className="w-full h-56 md:h-64 object-cover group-hover:scale-105 transition dur
   {/* Card 3 */}
  <div className="group bg-white rounded-3xl border border-purple-100 overflow-hidden shadow-md hover:shadow-2xl hover:-translate-y-2 hover:border-purple-300 transition-all duration-300">
     <img
-      src="/images/snow.jpg"
+      src="/images/Snow.jpg"
 className="w-full h-56 md:h-64 object-cover group-hover:scale-105 transition duration-500"    />
 
     <div className="p-8">
@@ -557,7 +557,7 @@ className="inline-flex items-center gap-2 mt-6 text-sm md:text-base text-[#8B5CF
 
       <div>
         <img
-          src="/images/about.jpg"
+          src="/images/About.jpg"
           alt="About Kaveri"
 className="rounded-3xl shadow-2xl w-full h-72 md:h-[500px] object-cover"        />
       </div>
